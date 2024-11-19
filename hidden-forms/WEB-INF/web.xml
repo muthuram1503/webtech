@@ -1,0 +1,13 @@
+<web-app>
+    
+    <servlet>
+        <servlet-name>HiddenForms</servlet-name>
+        <servlet-class>HiddenForms</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>HiddenForms</servlet-name>
+        <url-pattern>/HiddenForms</url-pattern>
+    </servlet-mapping>
+
+</web-app>
